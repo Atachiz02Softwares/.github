@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-**All you need to know about Morpheus Softwares:**
+**All you need to know about Atachiz02 Softwares:**
 
-🙋‍♀️ Morpheus Softwares is a computer software subsidiary of Atachiz02 Softwares that specializes in the development and deployment of both mobile and desktop application softwares.
+🙋‍♀️ Atachiz02 Softwares is a software engineering enterprise that specializes in the development and deployment of both mobile and desktop application software.
 
-🌈 You can contribute through directly emailing us or creating a discussion here on GitHub.
+🌈 You can contribute by directly emailing us or creating a discussion here on GitHub.
 
 👩‍💻 Find necessary materials on the organization's public GitHub repositories.
 
-🍿 Fun fact - We at Morpheus Softwares eat everything except our kind.
+🍿 Fun fact - We at Atachiz02 Softwares eat everything except our kind.
 
 💚 We love you too!
