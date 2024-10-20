@@ -8,6 +8,4 @@
 
 👩‍💻 Find necessary materials on the organization's public GitHub repositories.
 
-🍿 Fun fact - We at Atachiz02 Softwares eat everything except our kind.
-
 💚 We love you too!
